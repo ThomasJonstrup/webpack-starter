@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ThomasJonstrup/webpack-starter/issues"
   },
-  "homepage": "https://github.com/ThomasJonstrup/webpack-starter#readme"
+  "homepage": "https://github.com/ThomasJonstrup/webpack-starter#readme",
+  "devDependencies": {
+    "lodash": "^4.17.4"
+  }
 }
